@@ -24,30 +24,21 @@
 
 </div>
 
+<br/>
+
+> **CS + Quantum Computing @ SRM Trichy | CGPA 9.45 | ACM Quantum Scholar '25 | IBM Full Stack Certified | Building at the intersection of ML & networks ⚡**
+
 ---
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: shaluidea11
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaluidea11/shaluidea11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaluidea11/shaluidea11/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shaluidea11/shaluidea11/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
 ---
 
 ## ⚡ `$ whoami`
