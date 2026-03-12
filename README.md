@@ -19,20 +19,6 @@
 
 ---
 
-## 🧬 About Me
-
-```yaml
-name: Shalu
-location: Tiruchirappalli, Tamil Nadu 🇮🇳
-education:
-  - B.Tech Computer Science @ SRM (CGPA: 9.45)
-  - B.Tech Honours in Quantum Computing @ SRM
-current_focus:
-  - Full Stack Development
-  - Quantum Algorithms & Circuits
-  - Machine Learning for Network Security
-fun_fact: "Selected for ACM India Quantum Summer School 2025 🏆"
-```
 
 ---
 
