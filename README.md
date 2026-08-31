@@ -26,7 +26,7 @@
 
 <br/>
 
-> **CS + Quantum Computing @ SRM Trichy | CGPA 9.45 | ACM Quantum Scholar '25 | IBM Full Stack Certified | Building at the intersection of ML & networks ⚡**
+> **CS + Quantum Computing @ SRM  | CGPA 9.45 | ACM Quantum Scholar '25 | IBM Full Stack Certified | Building at the intersection of ML & networks ⚡**
 
 ---
 
